@@ -1,0 +1,7 @@
+<resources>
+    <string name="app_name">MVVMExample</string>
+    <string name="number_input_text">Digite un número</string>
+    <string name="total_text_view">"Suma: "</string>
+    <string name="calculate_button">Calcular</string>
+    <string name="title_text_view">Sumador de 2 números</string>
+</resources>
